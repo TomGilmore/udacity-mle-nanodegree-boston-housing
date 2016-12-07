@@ -1,4 +1,4 @@
-# Content: Model Evaluation and Validation
+# Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
 
 ## Project Overview
